@@ -1,0 +1,48 @@
+body {
+    background: url('../images/stars.jpg') center center;
+    font-family: 'Roboto', sans-serif;
+    color: yellow;
+}
+
+header {
+    background-color: black;
+    height: 150px;
+    width: 300px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+nav {
+    list-style: none;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 150px;
+    text-align: center;
+}
+
+nav a {
+    color: yellow;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+#logo {
+    float: left;
+}
+
+.small-text {
+    font-size: 10px;
+}
+
+.right {
+    text-align: right;
+}
